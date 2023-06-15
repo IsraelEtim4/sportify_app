@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/IsraelEtim4/sportify_app/static/css/main.a769745a.css",
+    "main.js": "/IsraelEtim4/sportify_app/static/js/main.ca3115f0.js",
+    "static/js/787.2333b430.chunk.js": "/IsraelEtim4/sportify_app/static/js/787.2333b430.chunk.js",
+    "static/media/Guitar.jpg": "/IsraelEtim4/sportify_app/static/media/Guitar.40dc70e0023a5e50836f.jpg",
+    "static/media/pexels-pixabay-158664.jpg": "/IsraelEtim4/sportify_app/static/media/pexels-pixabay-158664.f1fe8fc6d8c2d5f740f9.jpg",
+    "static/media/john-price-RAZQiZOX3mU-unsplash.jpg": "/IsraelEtim4/sportify_app/static/media/john-price-RAZQiZOX3mU-unsplash.05442a9e8b306a83482a.jpg",
+    "index.html": "/IsraelEtim4/sportify_app/index.html",
+    "main.a769745a.css.map": "/IsraelEtim4/sportify_app/static/css/main.a769745a.css.map",
+    "main.ca3115f0.js.map": "/IsraelEtim4/sportify_app/static/js/main.ca3115f0.js.map",
+    "787.2333b430.chunk.js.map": "/IsraelEtim4/sportify_app/static/js/787.2333b430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a769745a.css",
+    "static/js/main.ca3115f0.js"
+  ]
+}
